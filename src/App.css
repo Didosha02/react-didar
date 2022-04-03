@@ -1,0 +1,60 @@
+.app{
+  width: 1200px;
+
+}
+
+.header{
+  position: absolute;
+  width: 1200px;
+  height: 55px;
+  left: 150px;
+  top: 0px;
+background-color: aqua;
+
+}
+
+.header img{
+  left: 20px;
+  width: 55px;
+}
+
+.nav{
+  position: absolute;
+  width: 200px;
+  height: 500px;
+  left: 150px;
+  top: 53px;
+background-color:blueviolet;
+}
+
+.content{
+  position: absolute;
+  width: 1000px;
+  height: 500px;
+  left: 350px;
+  top: 53px;
+background-color:brown;
+}
+
+.content img{
+  width:1000px;
+  height: 400px;
+}
+
+.content-2{
+  position: absolute;
+  width: 1000px;
+  height: 500px;
+  left: 350px;
+  top: 460px;
+}
+
+.item{
+  color:white;
+}
+
+
+.item2{
+  display: inline-block;
+
+}
