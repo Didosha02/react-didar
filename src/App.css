@@ -10,11 +10,10 @@
   left: 150px;
   top: 0px;
 background-color: aqua;
-
 }
 
 .header img{
-  left: 20px;
+  margin-left: 600px;
   width: 55px;
 }
 
@@ -54,7 +53,17 @@ background-color:brown;
 }
 
 
-.item2{
-  display: inline-block;
-
+.footer{
+  position: absolute;
+  width: 1200px;
+  height: 80px;
+  left: 150px;
+  top: 553px;
+  background-color:darkmagenta;
 }
+
+.itemm{
+  margin-left: 500px;
+  color:white;
+}
+
